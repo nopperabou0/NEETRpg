@@ -1,0 +1,32 @@
+# MonoGame specific
+*.mgcb
+*.mgcontent
+*.xnb
+
+# Build artifacts
+bin/
+obj/
+*.o
+*.so
+*.dll
+*.exe
+*.dylib
+*.pdb
+
+# IDE-specific (if using any)
+.vscode/
+*.suo
+*.user
+*.csproj.user
+.idea/
+*.vs/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+
+# Dependencies
+packages/
+.nuget/
+*.nupkg
